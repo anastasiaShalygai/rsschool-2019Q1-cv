@@ -1,2 +1,1 @@
-# rsschool-2019Q1-cv
-Markdown &amp; Git task
+[https://anastasiaShalygai.github.io/rsschool-2019Q1-cv/cv](https://anastasiaShalygai.github.io/rsschool-2019Q1-cv/cv)
