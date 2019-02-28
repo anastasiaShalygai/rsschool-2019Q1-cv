@@ -17,13 +17,14 @@ I am therefore currently looking for a job or an internship as a front-end devel
 # Code example
 
 ```javascript
-<body>
-  <p>Before the script...</p>
-  <script>
-    alert( 'Hello, world!' );
-  </script>
-  <p>...After the script.</p>
-</body>
+<html>
+    <body>
+    <p>Before the script...</p>
+    <script>
+        alert( 'Hello, world!' );
+    </script>
+    <p>...After the script.</p>
+    </body>
 </html>
 ```
 
